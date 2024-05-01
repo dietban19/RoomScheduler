@@ -1,0 +1,6 @@
+# the .env file will not be going on to the github because of this .gitignore file 
+
+# .env
+
+node_modules
+.DS_Store
